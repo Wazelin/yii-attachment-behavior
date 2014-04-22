@@ -1,0 +1,13 @@
+{
+    "name": "yii-attachment-behavior",
+    "description": "This extension uploads the file to the server, renames the file and saves the path to the database.",
+    "authors": [
+        {
+            "name": "Greg Molnar",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": ">=1.1*"
+    }
+}
